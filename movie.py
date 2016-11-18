@@ -34,7 +34,7 @@
 from video import Video
 
 class Movie(Video):
- """This class representing a movie object."""
+    """This class representing a movie object."""
 
     def __init__(self, movie_title, movie_description, movie_poster_image_url, movie_trailer_youtube_url):
         """Initiate the movie instance.

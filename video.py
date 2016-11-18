@@ -34,7 +34,7 @@
 import webbrowser
 
 class Video():
-"""This class representing a video object."""
+    """This class representing a video object."""
 
     def __init__(self, video_title, video_description, video_poster_image_url, video_trailer_youtube_url):
         """Initiate the movie instance.
